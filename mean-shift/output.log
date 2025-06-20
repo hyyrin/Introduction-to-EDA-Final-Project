@@ -1,0 +1,54 @@
+Processing inputs/testcase1_0614.txt …
+tns:657.871 tpower:457.185 FF area 462505995000 #Violated bin:1
+area change to 462465297000
+timing changed to 6749.75
+power changed to 456.407
+tns:6749.75 tpower:456.407 FF area 462465297000 #Violated bin:1
+Final score:2312326619985.79
+
+Processing inputs/testcase1_0812.txt …
+tns:657.884 tpower:457.185 FF area 462505995000 #Violated bin:1
+area change to 462465297000
+timing changed to 923.653
+power changed to 456.407
+tns:923.653 tpower:456.407 FF area 462465297000 #Violated bin:1
+Final score:925862675.239225
+
+Processing inputs/testcase2_0812.txt …
+tns:84.2459 tpower:2116.4 FF area 1034711424000 #Violated bin:0
+tns:84.2459 tpower:2116.4 FF area 1034711424000 #Violated bin:0
+Final score:1675171.59674025
+
+Processing inputs/testcase3.txt …
+tns:743.668 tpower:316.172 FF area 454051521000 #Violated bin:0
+area change to 454003326000
+timing changed to 7952.1
+power changed to 315.218
+tns:7952.1 tpower:315.218 FF area 454003326000 #Violated bin:0
+Final score:911238422.270066
+
+Processing inputs/hiddencase01.txt …
+tns:657.883 tpower:457.185 FF area 462505995000 #Violated bin:1
+area change to 462465297000
+timing changed to 672.153
+power changed to 456.407
+tns:672.153 tpower:456.407 FF area 462465297000 #Violated bin:1
+Final score:92223123.5184136
+
+Processing inputs/hiddencase02.txt …
+tns:84.2459 tpower:2116.4 FF area 1034711424000 #Violated bin:0
+tns:84.2459 tpower:2116.4 FF area 1034711424000 #Violated bin:0
+Final score:85484612.8455791
+
+Processing inputs/hiddencase03.txt …
+tns:84.2459 tpower:2116.4 FF area 1034711424000 #Violated bin:0
+tns:84.2459 tpower:2116.4 FF area 1034711424000 #Violated bin:0
+Final score:83624314.4717402
+
+Processing inputs/hiddencase04.txt …
+area change to 454023675000
+timing changed to 1517.5
+power changed to 315.388
+tns:1517.5 tpower:315.388 FF area 454023675000 #Violated bin:0
+Final score:911216475.270498
+

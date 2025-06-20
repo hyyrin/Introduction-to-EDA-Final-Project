@@ -1,0 +1,62 @@
+Processing inputs/testcase1_0614.txt …
+tns:657.871 tpower:457.185 FF area 462505995000 #Violated bin:1
+area change to 365992830000
+timing changed to 3.2293e+08
+power changed to 179.702
+tns:3.2293e+08 tpower:179.702 FF area 365992830000 #Violated bin:75
+Final score:1830287149666.07
+
+Processing inputs/testcase1_0812.txt …
+tns:657.884 tpower:457.185 FF area 462505995000 #Violated bin:1
+area change to 365992830000
+timing changed to 3.14264e+07
+power changed to 179.702
+tns:3.14264e+07 tpower:179.702 FF area 365992830000 #Violated bin:75
+Final score:1047359332.56574
+
+Processing inputs/testcase2_0812.txt …
+tns:84.2459 tpower:2116.4 FF area 1034711424000 #Violated bin:0
+area change to 694856448000
+timing changed to 7.21038e+06
+power changed to 132.275
+tns:7.21038e+06 tpower:132.275 FF area 694856448000 #Violated bin:959
+Final score:82302632.5382623
+
+Processing inputs/testcase3.txt …
+tns:743.668 tpower:316.172 FF area 454051521000 #Violated bin:0
+area change to 390122460000
+timing changed to 2.21629e+06
+power changed to 138.001
+tns:2.21629e+06 tpower:138.001 FF area 390122460000 #Violated bin:51
+Final score:804297944.7215
+
+Processing inputs/hiddencase01.txt …
+tns:657.883 tpower:457.185 FF area 462505995000 #Violated bin:1
+area change to 365992830000
+timing changed to 2.55386e+06
+power changed to 179.702
+tns:2.55386e+06 tpower:179.702 FF area 365992830000 #Violated bin:75
+Final score:62960930.5764291
+
+Processing inputs/hiddencase02.txt …
+tns:84.2459 tpower:2116.4 FF area 1034711424000 #Violated bin:0
+area change to 694856448000
+timing changed to 7.21173e+07
+power changed to 132.275
+tns:7.21173e+07 tpower:132.275 FF area 694856448000 #Violated bin:959
+Final score:736610181.18751
+
+Processing inputs/hiddencase03.txt …
+tns:84.2459 tpower:2116.4 FF area 1034711424000 #Violated bin:0
+area change to 694856448000
+timing changed to 7.21038e+06
+power changed to 132.275
+tns:7.21038e+06 tpower:132.275 FF area 694856448000 #Violated bin:959
+Final score:137335263.350762
+
+Processing inputs/hiddencase04.txt …
+area change to 390122460000
+timing changed to 2.2188e+06
+power changed to 138.001
+tns:2.2188e+06 tpower:138.001 FF area 390122460000 #Violated bin:50
+Final score:804313030.050861

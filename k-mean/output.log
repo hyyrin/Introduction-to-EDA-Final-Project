@@ -1,0 +1,63 @@
+Processing inputs/testcase1_0614.txt …
+tns:657.871 tpower:457.185 FF area 462505995000 #Violated bin:1
+area change to 431706177000
+timing changed to 1.10358e+07
+power changed to 375.343
+tns:1.10358e+07 tpower:375.343 FF area 431706177000 #Violated bin:0
+Final score:2158541958141.89
+
+Processing inputs/testcase1_0812.txt …
+tns:657.884 tpower:457.185 FF area 462505995000 #Violated bin:1
+area change to 431877537000
+timing changed to 748659
+power changed to 378.725
+tns:748659 tpower:378.725 FF area 431877537000 #Violated bin:0
+Final score:871999111.188982
+
+Processing inputs/testcase2_0812.txt …
+tns:84.2459 tpower:2116.4 FF area 1034711424000 #Violated bin:0
+area change to 915088032000
+timing changed to 134864
+power changed to 1225.13
+tns:134864 tpower:1225.13 FF area 915088032000 #Violated bin:0
+Final score:2570758.57430485
+
+Processing inputs/testcase3.txt …
+tns:743.668 tpower:316.172 FF area 454051521000 #Violated bin:0
+area change to 435472884000
+timing changed to 119448
+power changed to 273.051
+tns:119448 tpower:273.051 FF area 435472884000 #Violated bin:0
+Final score:874870843.445551
+
+Processing inputs/hiddencase01.txt …
+tns:657.883 tpower:457.185 FF area 462505995000 #Violated bin:1
+area change to 437790528000
+timing changed to 109942
+power changed to 346.773
+tns:109942 tpower:346.773 FF area 437790528000 #Violated bin:0
+Final score:71329588.7039415
+
+Processing inputs/hiddencase02.txt …
+tns:84.2459 tpower:2116.4 FF area 1034711424000 #Violated bin:0
+area change to 920688624000
+timing changed to 1.96744e+06
+power changed to 1256.53
+tns:1.96744e+06 tpower:1256.53 FF area 920688624000 #Violated bin:0
+Final score:70671927.0721322
+
+Processing inputs/hiddencase03.txt …
+tns:84.2459 tpower:2116.4 FF area 1034711424000 #Violated bin:0
+area change to 912278160000
+timing changed to 175986
+power changed to 1316.78
+tns:175986 tpower:1316.78 FF area 912278160000 #Violated bin:0
+Final score:75268821.212931
+
+Processing inputs/hiddencase04.txt …
+area change to 435792042000
+timing changed to 156847
+power changed to 272.896
+tns:156847 tpower:272.896 FF area 435792042000 #Violated bin:0
+Final score:875881563.223362
+
