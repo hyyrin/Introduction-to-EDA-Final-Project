@@ -1,12 +1,10 @@
 #!/bin/bash
 
-# 清空 log
+# clean log file
 > output.log
 
-# 關鍵字
 KEYWORDS="area change to|timing changed to|power changed to|tns:|FF area|Final score:|Violated bin"
 
-# 明確列出你要跑的檔案
 INPUT_FILES=(
   inputs/testcase1_0614.txt
   inputs/testcase1_0812.txt
@@ -24,7 +22,7 @@ for input in "${INPUT_FILES[@]}"; do
 
     echo "Processing $input ..." | tee -a output.log
 
-    # 執行並收集 stdout + stderr，過濾關鍵行後寫入 log
+    # write to log file
     ./main "$input" "$output" 2>&1 | grep -E "$KEYWORDS" >> output.log
 
     echo "" >> output.log

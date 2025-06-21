@@ -101,7 +101,8 @@ All the results would be recored in the `output.log`.
 
 
 ### 4.3 Verifying Pin Connections
-To verify the correctness of the generated pin mappings, use the provided sanity check tool named `sanity_20240801`
+To verify the correctness of the generated pin mappings, use the provided sanity check tool named `sanity_20240801`.
+
 **Syntax:**
 ```bash
 ./sanity_20240801 inputs/<inputFile1.txt> outputs/<outputName>
